@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+
+
+.header-container {
+    background-color: black;
+    height: 94px;
+}
+
+.nav-container {
+    padding: 1.6rem 6rem;
+}
+
+.nav-list {
+    list-style: none;
+    
+}
+
+
+a {
+    text-decoration: none;
+    margin-left: 2.6rem;
+    color: #fff;
+}
+
+
+
+
+/* a:hover {
+    text-decoration: underline;
+    color: #fff;
+} */
+
